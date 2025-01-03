@@ -1,0 +1,4 @@
+model_name_or_path: /data/nlp_share/Llama_models/Llama-3.1-8B-Instruct
+adapter_name_or_path: saves/ACL/sft
+template: llama3
+finetuning_type: lora

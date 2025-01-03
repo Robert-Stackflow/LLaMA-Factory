@@ -1,0 +1,2 @@
+model_name_or_path: /data/nlp_share/Llama_models/Llama-3.1-8B-Instruct
+template: llama3
