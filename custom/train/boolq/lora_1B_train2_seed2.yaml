@@ -13,7 +13,7 @@ lora_rank: 8
 lora_alpha: 16
 
 ### dataset
-dataset: boolq_train_1
+dataset: boolq_train_2
 template: llama3
 cutoff_len: 2048
 max_samples: 5000
@@ -21,7 +21,7 @@ overwrite_cache: true
 preprocessing_num_workers: 16
 
 ### output
-output_dir: custom/train/models/boolq/lora_1B_train1_seed2
+output_dir: custom/train/models/boolq/lora_1B_train2_seed2
 logging_steps: 10
 save_steps: 200
 plot_loss: true
